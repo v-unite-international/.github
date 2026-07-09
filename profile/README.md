@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v-unite-international/.github/main/profile/assets/vum-logo-dark.png">
-  <img src="https://raw.githubusercontent.com/v-unite-international/.github/main/profile/assets/vum-logo-light.png" alt="V-Unite" width="280">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v-unite-international/.github/main/profile/assets/v-unite-logo-dark.png">
+  <img src="https://raw.githubusercontent.com/v-unite-international/.github/main/profile/assets/v-unite-logo-light.png" alt="V-Unite" width="280">
 </picture>
 
 ### Nachhaltige Mitarbeitergewinnung für Ausbildungsbetriebe
